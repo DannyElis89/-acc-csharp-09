@@ -1,0 +1,15 @@
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/home/danny/trybe/aceleracao-c/classes-acc/secao01/dia01/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
